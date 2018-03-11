@@ -1,0 +1,446 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the portable KSP instance",
+	"name": "installed-portable",
+	"license": "unknown",
+	"version": "2018.03.11.07.50.36",
+	"identifier": "installed-portable",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "AGExt"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "Konstruction"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "DarkMultiPlayer"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "KerboKatzUtilities"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "DMTanks-AeroRTG"
+		},
+		{
+			"name": "KerbalLaunchVehicles"
+		},
+		{
+			"name": "PoodsDeepStarMap"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "KWRocketryRedux"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "SigmaReplacements-SkyBox"
+		},
+		{
+			"name": "EngineLighting"
+		},
+		{
+			"name": "BetterCrewAssignment"
+		},
+		{
+			"name": "TundraExploration"
+		},
+		{
+			"name": "WaypointManager"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "KWRocketryRedux-InstantPwr"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "PADContinued"
+		},
+		{
+			"name": "KerboKatzSmallUtilities-PhysicalTimeRatioViewer"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "JX2Antenna"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "CollisionFX"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "KSPWheel"
+		},
+		{
+			"name": "HazardTanksTextures"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "MunarIndustriesFTX"
+		},
+		{
+			"name": "B9-props"
+		},
+		{
+			"name": "HangerExtenderExtended"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "TakeCommandContinued"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "SETI-Greenhouse"
+		},
+		{
+			"name": "SETI-ProbeParts"
+		},
+		{
+			"name": "OPTSpacePlaneMain"
+		},
+		{
+			"name": "VensStylePPTextures"
+		},
+		{
+			"name": "RecycledParts"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "CorrectCoL"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "PreciseNode"
+		},
+		{
+			"name": "PatchManager"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "RCSBuildAidCont"
+		},
+		{
+			"name": "FinalFrontier"
+		},
+		{
+			"name": "IndicatorLights"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "BDAnimationModules"
+		},
+		{
+			"name": "MainSailorTextures-Complete"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "ProceduralParts-Textures-SaturnNova"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "MainSailorTextures-Essentials"
+		},
+		{
+			"name": "LoadingScreenManager"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "AVP-8kTextures"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "TextureReplacerReplaced"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "KS3P"
+		},
+		{
+			"name": "ETT"
+		},
+		{
+			"name": "KerbalHealth"
+		},
+		{
+			"name": "xScience"
+		},
+		{
+			"name": "YongeTechTreesPlugin-Revived"
+		},
+		{
+			"name": "WindowShineTR"
+		},
+		{
+			"name": "CrewLight"
+		},
+		{
+			"name": "AntennaSleep"
+		},
+		{
+			"name": "AtmosphereAutopilot"
+		},
+		{
+			"name": "B9"
+		},
+		{
+			"name": "BAMCont"
+		},
+		{
+			"name": "BasicDeltaV"
+		},
+		{
+			"name": "BZ1RadialAttachmentPoint"
+		},
+		{
+			"name": "ChopShop"
+		},
+		{
+			"name": "CrowdSourcedScience"
+		},
+		{
+			"name": "EditorExtensionsRedux"
+		},
+		{
+			"name": "EVAParachutes"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "GravityTurnContinued"
+		},
+		{
+			"name": "KerbalFlightIndicators"
+		},
+		{
+			"name": "KerbalHacksDroptankWrapper"
+		},
+		{
+			"name": "KerbalHotSeatCont"
+		},
+		{
+			"name": "KerbalJointReinforcement"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "LandingAIM"
+		},
+		{
+			"name": "LandingHeight"
+		},
+		{
+			"name": "MalemuteRover"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "NavballDockAlignIndCE"
+		},
+		{
+			"name": "OffStage"
+		},
+		{
+			"name": "PartCommanderCont"
+		},
+		{
+			"name": "QuizTechAeroPackContinued"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "FilterExtensions"
+		},
+		{
+			"name": "ThrottleControlledAvionics"
+		},
+		{
+			"name": "B9AnimationModules"
+		},
+		{
+			"name": "ConnectedLivingSpace"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "SafeChute"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "ShowAllFuelsContinued"
+		},
+		{
+			"name": "StoreMyReports"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "TweakableEverythingCont"
+		},
+		{
+			"name": "UniversalStorage"
+		},
+		{
+			"name": "VenStockRevamp"
+		},
+		{
+			"name": "ToadicusToolsContinued"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "ToughLove"
+		}
+	]
+}
